@@ -83,7 +83,7 @@ header a {
 }
 
 .dropbtn {
-  background: url("../img/ic_librarian.svg") no-repeat 8px center;
+  background: url("../img/ic_member.svg") no-repeat 8px center;
   background-color: #d75069;
   margin-top: 10%;
   color: white;
@@ -92,7 +92,6 @@ header a {
   font-size: 16px;
   font-family: "Open Sans", sans-serif;
   border: none;
-  border-radius: 30px;
   cursor: pointer;
 }
 

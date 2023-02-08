@@ -14,11 +14,10 @@
 			
 			<div class="dropdown">
 				<button class="dropbtn"> 
-					<p id="librarian-name">Profile</p>
+					<p id="librarian-name">@Ashana</p>
 				</button>
 				<div class="dropdown-content">
-					<a href="welcome.html">Home</a>
-					<a href="return_books.php">My Books</a>
+					<a href="librarian.php">Go Back</a>
 					<a href="logout.php">Logout</a>
 				</div>
 			</div>
